@@ -42,4 +42,8 @@ Centralized Data Repository: Single source of truth for all player-related infor
 Automated Process Workflows: Reduced manual intervention and associated error risks
 Instantaneous Access Protocols: Rapid information retrieval and display mechanisms
 Integrated Management Framework: Unified platform for comprehensive player administration
-This systematic approach ensures operational excellence, data integrity, and enhanced administrative efficiency in soccer player management processe
+This systematic approach ensures operational excellence, data integrity, and enhanced administrative efficiency in soccer player management processes
+
+Students
+230747598 Khumalo SS
+224688350 Mavuso SS
